@@ -1,0 +1,128 @@
+.content-wrapper {
+  padding-left: 9rem;
+  padding-right: 9rem;
+}
+.company-wrapper {
+  border-radius: 15px;
+  color: #fff;
+}
+.facebook-wrapper {
+  background-color: #4867aa!important;
+}
+.twitter-wrapper {
+  background-color: #1da1f2!important;
+}
+.google-wrapper {
+  background-color: #ea4335!important;
+}
+.github-wrapper {
+  background-color: #3f4448!important;
+}
+.soundcloud-wrapper {
+background-color: #ff6902!important;
+}
+.steam-wrapper {
+background-color: #231f20!important;
+}
+.pinterest-wrapper {
+background-color: #bd081b!important;
+}
+.vimeo-wrapper {
+background-color: #00adef!important;
+}
+.telegram-wrapper {
+background-color: #ed2333!important;
+}
+.yahoo-wrapper {
+background-color: #4102b0!important;
+}
+.vk-wrapper {
+background-color: #5181b8!important;
+}
+.spotify-wrapper {
+background-color: #1ed760!important;
+}
+.linkedin-wrapper {
+background-color: #0077b5!important;
+}
+.bandcamp-wrapper {
+background-color: #649eaa!important;
+}
+.tumblr-wrapper {
+background-color: #444!important;
+}
+.header-text span, .orange {
+  color: #ff6902;
+}
+.header-text {
+  font-size: 33px;
+}
+.or-divider p {
+  position: relative;
+  font-size: 30px;
+  color: #b1aeae;
+}
+.or-divider p:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  top: 25px;
+  bottom: 0;
+  height: 3px;
+  background: #b1aeae;
+  width: 44%;
+}
+.or-divider p:after {
+  position: absolute;
+  content: '';
+  right: 0;
+  top: 25px;
+  bottom: 0;
+  height: 3px;
+  background: #b1aeae;
+  width: 44%;
+}
+.custom-btn-primary {
+  color: #007bff;
+  background: #fff;
+  border: 2px solid #007bf;
+}
+.bg-gray {
+  background: #e5e5e5;
+}
+.hours, .minutes, .seconds {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+.hours {
+    background: #04a504;
+    border: 3px solid #9ee89e;
+    opacity: .7;
+}
+.minutes {
+    opacity: .7;
+    background: #3939bb;
+    border: 3px solid #c5c5de;
+}
+.seconds {
+    border: 3px solid #75c2ff;
+    background: #4389f1;
+    opacity: .7;
+}
+.countdown-content span {
+  font-size: 120px;
+  font-weight: 700;
+  color: #fff;
+}
+.countdown-wrapper {
+  padding-left: 215px;
+  padding-right: 215px;
+}
+.countdown-header, .countdown-footer {
+    border: 2px solid #b9b8b8;
+}
+.countdown-content {
+  border-left: 2px solid #b9b8b8;
+  border-right: 2px solid #b9b8b8;
+}
